@@ -1,0 +1,13 @@
+.string {
+    color: #28a745;
+  }
+  .number {
+    color: black;
+  }
+  .boolean,
+  .null {
+    color: blue;
+  }
+  .key {
+    color:#343a40;
+  }
